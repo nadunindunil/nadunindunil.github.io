@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    scroll-padding-top: 100px;
+  }
+
+  body {
+    @apply antialiased;
+  }
+}
+
+.prose {
+  @apply max-w-none;
+  --tw-prose-body: theme('colors.gray.600');
+  --tw-prose-headings: theme('colors.gray.900');
+  --tw-prose-links: theme('colors.blue.600');
+  --tw-prose-bold: theme('colors.gray.900');
+  --tw-prose-bullets: theme('colors.gray.400');
+  --tw-prose-quotes: theme('colors.gray.900');
+  --tw-prose-quote-borders: theme('colors.gray.200');
+  --tw-prose-pre-code: theme('colors.gray.200');
+  --tw-prose-pre-bg: theme('colors.gray.800');
+
+  /* Reduce spacing between elements */
+  --tw-prose-p-margin: 0.75em 0;
+  --tw-prose-li-margin: 0.375em 0;
+  --tw-prose-headings-margin: 1.5em 0 0.5em;
+
+  /* Adjust list spacing */
+  --tw-prose-list-margin: 0.75em 0;
+  --tw-prose-list-padding: 0 0 0 1.5em;
+}
+
+.dark .prose {
+  --tw-prose-body: theme('colors.gray.300');
+  --tw-prose-headings: theme('colors.white');
+  --tw-prose-links: theme('colors.blue.400');
+  --tw-prose-bold: theme('colors.white');
+  --tw-prose-bullets: theme('colors.gray.600');
+  --tw-prose-quotes: theme('colors.gray.100');
+  --tw-prose-quote-borders: theme('colors.gray.700');
+  --tw-prose-pre-code: theme('colors.gray.100');
+  --tw-prose-pre-bg: theme('colors.gray.900');
+}
+
+.prose a {
+  @apply text-blue-600 dark:text-blue-400 no-underline hover:underline;
+}
+
+.prose ul {
+  @apply mt-0 mb-4;
+}
+
+.prose p {
+  @apply my-4;
+}
+
+::-webkit-scrollbar {
+  @apply w-2;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gray-300 dark:bg-gray-700 rounded-full;
+}

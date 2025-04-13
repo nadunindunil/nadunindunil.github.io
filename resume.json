@@ -1,0 +1,516 @@
+{
+  "basics": {
+    "name": "Nadun Indunil",
+    "headline": "Software Engineer",
+    "location": "Camberwell, VIC",
+    "url": {
+      "label": "",
+      "href": "https://nadunindunil.github.io"
+    },
+    "customFields": [],
+    "picture": {
+      "url": "",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p>Passionate Software Engineer with over<strong> 7+ years of experience</strong> building and maintaining web-based software and scalable architectures. Former Technical Lead at a <strong>Fortune 500</strong> company in the USA, now driving innovation at <strong>Nine Entertainment Co</strong>, Australia. A creative problem solver dedicated to crafting efficient, user-centric solutions and contributing to the <strong>open-source</strong> community.</p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": []
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "dgzs2jr8owjbjitq4hsklr52",
+          "visible": true,
+          "institution": "University of Moratuwa, Sri Lanka",
+          "studyType": "BSc. Engineering (Hons)",
+          "area": "Computer Science and Engineering",
+          "score": "",
+          "date": "2014 - 2018",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "dia9p4ot9r4og7wojsqd3oyj",
+          "visible": true,
+          "company": "Nine Entertainment Co.",
+          "position": "Software Engineer",
+          "location": "Melbourne, Australia",
+          "date": "October 2022 - Present",
+          "summary": "<ul><li><p>Research, Implement, Test, and support a Content Management System that helps 500+ journalists to write daily news articles in reputed newspapers like The Age, Sydney Morning Herald, and Brisbane Times etc.</p></li><li><p>Carried out AWS-related optimization and changes required for the CMS-Authoring application.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://www.nine.com.au/"
+          }
+        },
+        {
+          "id": "t984qp8crbb3j7xc2j4dzy7c",
+          "visible": true,
+          "company": "Sysco LABS",
+          "position": "Technical Lead",
+          "location": "Colombo, Sri Lanka",
+          "date": "August, 2022 - October, 2022",
+          "summary": "<ul><li><p>Automated a manual process of creating data in the IBM/DB2 database from Procurement Express by using a fully serverless solution to reduce the update time from minutes to seconds.</p></li><li><p>Improved AWS accounts' security and reduced the annual cost.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://syscolabs.lk/"
+          }
+        },
+        {
+          "id": "nv88p1npndygwfzkqggr1a5w",
+          "visible": true,
+          "company": "Sysco LABS",
+          "position": "Associate Technical Lead",
+          "location": "Colombo, Sri Lanka",
+          "date": "December, 2020 - August, 2022",
+          "summary": "<ul><li><p>Designed, built, and maintained a web portal that was used by more than 30000 Sysco Canada Customers and associates.</p></li><li><p>Designed, build, and maintained a user management module that was used by more than 5000 Sysco Canada suppliers/associates and 4 applications.</p></li><li><p>Improved AWS accounts' security and reduced the annual cost by 10%.</p></li><li><p>Led a team of 4 young engineers.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "ehgb7xky93torbhbiw9krr8u",
+          "visible": true,
+          "company": "Sysco LABS",
+          "position": "Senior Software Engineer",
+          "location": "Colombo, Sri Lanka",
+          "date": "August, 2019 - November, 2020",
+          "summary": "<ul><li><p>Researched, configured, and maintained an e-commerce website for Sysco Canada that made revenue of 1M CAD within 6 months.</p></li><li><p>Designed, build, and maintained a modernized portal for applying new prices of food items for 1000+ Sysco Suppliers.</p></li><li><p>Designed, built, and maintained Search Engine Optimized landing site visited by more than 10000 users per day.</p></li><li><p>Optimized a legacy internal spring-boot application to decrease a response time by more than 40%</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "br72sigg4oj6yj07qqeeausu",
+          "visible": true,
+          "company": "Sysco LABS",
+          "position": "Software Engineer",
+          "location": "Colombo, Sri Lanka",
+          "date": "January, 2018 - July, 2019",
+          "summary": "<ul><li><p>Automated a manual process of requesting AWS resources from the Sysco DevOps team by developing an internal portal that can be utilized by all the team leads in Sysco. </p></li><li><p>Reduced the task create time in Jira board from 1 week to 15 mins.</p></li><li><p>Built an application to monitor and visualize AWS resources in all AWS accounts under the Sysco Corporation that helped multiple teams to follow Sysco best practices and reduce the AWS cost by 20%.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "ad8rn8lgrbextcmoelq7x7a1",
+          "visible": false,
+          "company": "99X Technology (Pvt) Ltd",
+          "position": "Software Engineer - Intern",
+          "location": "Colombo, Sri Lanka",
+          "date": "August, 2016 - January, 2017",
+          "summary": "<ul><li><p>Designed and built a fully serverless application using angular.js and node.js in AWS to track interns' details in the company.</p></li><li><p>Optimized performance in an angular.js application.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 2,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": [
+        {
+          "id": "xz6n18o316v9qj7adiq2dr8u",
+          "visible": true,
+          "organization": "Packt Publications",
+          "position": "",
+          "location": "",
+          "date": "",
+          "summary": "<p>Volunteer to proofread <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.packtpub.com/en-us/product/advanced-typescript-programming-projects-9781789133042\">Advanced TypeScript Programming Projects</a> published by Packt Publications.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "hx56zr01z2ulcx5et9li3a4j",
+          "visible": true,
+          "organization": "AWS",
+          "position": "Community Builder",
+          "location": "",
+          "date": "",
+          "summary": "<p>AWS Community Builder under Serverless category - 2022 March to present</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": []
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": []
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 3,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "e8nro5g2z8hjybidqxm8tx9h",
+          "visible": true,
+          "network": "LinkedIn",
+          "username": "nadunindunil",
+          "icon": "linkedin",
+          "url": {
+            "label": "",
+            "href": "https://www.linkedin.com/in/nadunindunil/"
+          }
+        },
+        {
+          "id": "k315pymbm7it5wh5rabz93l9",
+          "visible": true,
+          "network": "Github",
+          "username": "nadunindunil",
+          "icon": "github",
+          "url": {
+            "label": "",
+            "href": "https://github.com/nadunindunil"
+          }
+        },
+        {
+          "id": "yx6nye55hq7uumqey7cwyv48",
+          "visible": true,
+          "network": "Stackoverflow",
+          "username": "nadun",
+          "icon": "stackoverflow",
+          "url": {
+            "label": "",
+            "href": "https://stackoverflow.com/users/4525429/nadun"
+          }
+        },
+        {
+          "id": "medium",
+          "icon": "medium",
+          "url": {
+            "href": "https://medium.com/@nadun1indunil"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": [
+        {
+          "id": "gpgpqop26v0me0r9src52u1y",
+          "visible": true,
+          "name": "Sysco Supplier Suite",
+          "description": "Enterprise Project",
+          "date": "Aug 2019 - Oct 2022",
+          "summary": "<p>Sysco Supplier Suite is a centralized platform for external suppliers to interact with Sysco Canada, built with a micro-frontend architecture. In its initial phase, the suite onboarded two key applications: the <strong>Costing Application</strong>, which replaced the legacy pricing portal for suppliers to submit price updates, and the <strong>User Management Application</strong>, enabling efficient user access and role management.</p>",
+          "keywords": [
+            "react.js",
+            "express.js",
+            "Typescript",
+            "serverless framework",
+            "Springboot",
+            "AWS",
+            "MongoDB",
+            "Postgres",
+            "Docker",
+            "AWS Kinesis",
+            "dynamodb",
+            "S3",
+            "AWS Api Gateway",
+            "gatsby.js",
+            "Cloudformation"
+          ],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "nocreqisworsgl5f4uu88olj",
+          "visible": true,
+          "name": "Sysco Quick Reqest Form (QRF)",
+          "description": "Enterprise Project",
+          "date": "Mar 2018 – Aug 2019",
+          "summary": "<p>A simple application that can request AWS resources/AWS accounts from the Sysco Cloud team. The QRF can simply gather the information required for the request and create a JIRA ticket in the Cloud team backlog.</p>",
+          "keywords": [
+            "react.js",
+            "express.js",
+            "serverless framework",
+            "AWS",
+            "DynamoDB",
+            "Api Gateway",
+            "AWS Lambda",
+            "S3",
+            "AWS Cloudfront"
+          ],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "opensource": {
+      "name": "Open Source Contributions",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "opensource",
+      "items": [
+        {
+          "id": "serverless-gen",
+          "visible": true,
+          "name": "Serverless Permission Generator",
+          "description": "Owner",
+          "date": "",
+          "summary": "<p>An Online Application to generate AWS IAM permissions required for deploying a Serverless Framework stack. This tool simplifies the process of creating proper IAM permissions for serverless applications.</p>",
+          "keywords": [
+            "JavaScript",
+            "AWS IAM",
+            "Serverless Framework"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://github.com/Open-SL/serverless-permission-generator"
+          }
+        },
+        {
+          "id": "aft5tcun2hfygs24gbgy7qmv",
+          "visible": true,
+          "name": "Z-Editor",
+          "description": "Owner",
+          "date": "",
+          "summary": "<p>Online Z-notations Editor built with Prosemirror and React.js. A modern web-based editor for Z notation specifications.</p>",
+          "keywords": [
+            "TypeScript",
+            "React.js",
+            "Prosemirror"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://github.com/Z-Editor/Z-Editor"
+          }
+        },
+        {
+          "id": "emjnfno6q2c1v7cf6xtck43j",
+          "visible": true,
+          "name": "awesome-material-ui",
+          "description": "Owner",
+          "date": "",
+          "summary": "<p>A curated list of Material-UI resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of information about Material-UI.</p>",
+          "keywords": [
+            "react.js",
+            "mui",
+            "material-ui"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://github.com/nadunindunil/awesome-material-ui"
+          }
+        },
+        {
+          "id": "chords-transposer",
+          "visible": true,
+          "name": "Chords Transposer",
+          "description": "Owner",
+          "date": "",
+          "summary": "<p>A TypeScript library for transposing music chords and parsing raw strings into chords and lyrics. Helps musicians easily transpose songs to different keys.</p>",
+          "keywords": [
+            "TypeScript",
+            "Music",
+            "NPM Package"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://github.com/Open-SL/Chords-Transposer"
+          }
+        },
+        {
+          "id": "rcprogressbar",
+          "visible": true,
+          "name": "RCProgressBar",
+          "description": "Owner",
+          "date": "",
+          "summary": "<p>A progress bar with rounded corners (RC) for C# WinForm applications. Enhances the visual appeal of Windows applications with a modern progress indicator.</p>",
+          "keywords": [
+            "C#",
+            "WinForms",
+            "UI Component"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://github.com/Open-SL/RCProgressBar"
+          }
+        },
+        {
+          "id": "e0v2i9uq1v5ablb7pyudxja5",
+          "visible": true,
+          "name": "@types/node-jose",
+          "description": "Maintainer",
+          "date": "",
+          "summary": "<p>Types definition for node-jose library.</p>",
+          "keywords": [
+            "Typescript",
+            "node.js"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://www.npmjs.com/package/@types/node-jose"
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": []
+    },
+    "custom": {}
+  },
+  "metadata": {
+    "template": "bronzor",
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience"
+        ],
+        [
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ],
+      [
+        [
+          "projects",
+          "opensource",
+          "education",
+          "volunteer",
+          "references"
+        ],
+        []
+      ]
+    ],
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 12,
+      "format": "a4",
+      "options": {
+        "breakLine": false,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#0d9488"
+    },
+    "typography": {
+      "font": {
+        "family": "Open Sans",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 13.3
+      },
+      "lineHeight": 1.25,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
