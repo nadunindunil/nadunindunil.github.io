@@ -2,7 +2,9 @@
   "basics": {
     "name": "Nadun Indunil",
     "headline": "Software Engineer",
-    "location": "Camberwell, VIC",
+    "email": "nadun1indunil@gmail.com",
+    "phone": "0415987997",
+    "location": "Melbourne, VIC",
     "url": {
       "label": "",
       "href": "https://nadunindunil.github.io"
@@ -27,7 +29,7 @@
       "separateLinks": true,
       "visible": true,
       "id": "summary",
-      "content": "<p>Passionate Software Engineer with over<strong> 7+ years of experience</strong> building and maintaining web-based software and scalable architectures. Former Technical Lead at a <strong>Fortune 500</strong> company in the USA, now driving innovation at <strong>Nine Entertainment Co</strong>, Australia. A creative problem solver dedicated to crafting efficient, user-centric solutions and contributing to the <strong>open-source</strong> community.</p>"
+      "content": "<p>Passionate Software Engineer with over<strong> {{yearsOfExperience}}+ years of experience</strong> building and maintaining web-based software and scalable architectures. Former Technical Lead at a <strong>Fortune 500</strong> company in the USA, now building at <strong>Microsoft</strong>, Australia. A creative problem solver dedicated to crafting efficient, user-centric solutions and contributing to the <strong>open-source</strong> community.</p>"
     },
     "awards": {
       "name": "Awards",
@@ -76,12 +78,25 @@
       "id": "experience",
       "items": [
         {
+          "id": "microsoft-software-engineer",
+          "visible": true,
+          "company": "Microsoft",
+          "position": "Software Engineer",
+          "location": "Melbourne, Victoria, Australia",
+          "date": "April 2026 - Present",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://www.microsoft.com/"
+          }
+        },
+        {
           "id": "dia9p4ot9r4og7wojsqd3oyj",
           "visible": true,
           "company": "Nine Entertainment Co.",
           "position": "Software Engineer",
-          "location": "Melbourne, Australia",
-          "date": "October 2022 - Present",
+          "location": "Melbourne, Victoria, Australia",
+          "date": "October 2022 - March 2026",
           "summary": "<ul><li><p>Research, Implement, Test, and support a Content Management System that helps 500+ journalists to write daily news articles in reputed newspapers like The Age, Sydney Morning Herald, and Brisbane Times etc.</p></li><li><p>Carried out AWS-related optimization and changes required for the CMS-Authoring application.</p></li></ul>",
           "url": {
             "label": "",
@@ -91,7 +106,7 @@
         {
           "id": "t984qp8crbb3j7xc2j4dzy7c",
           "visible": true,
-          "company": "Sysco LABS",
+          "company": "Sysco LABS - the innovation arm of Sysco Corporation (NYSE: SYY)",
           "position": "Technical Lead",
           "location": "Colombo, Sri Lanka",
           "date": "August, 2022 - October, 2022",
@@ -412,9 +427,9 @@
           "id": "e0v2i9uq1v5ablb7pyudxja5",
           "visible": true,
           "name": "@types/node-jose",
-          "description": "Maintainer",
+          "description": "Maintainer · 304K+ weekly npm downloads",
           "date": "",
-          "summary": "<p>Types definition for node-jose library.</p>",
+          "summary": "<p>Type definitions for the node-jose library, with over 304,000 weekly downloads on npm.</p>",
           "keywords": [
             "Typescript",
             "node.js"
